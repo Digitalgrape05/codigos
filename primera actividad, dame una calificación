@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <conio.h>
+main<>
+{
+  float cal;
+  printf ("dame la calificacion: ");
+  scanf ("%f" , &cal);
+  if ( cal >= 60)
+     printf ("aprobada") ;
+     else
+     printf ("reprobada") ;
+     getch () ;
+     return  0;
+ }    
